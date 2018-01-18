@@ -1,0 +1,10 @@
+C:\Users\Ahmet Can\source\repos\Yilbasi_yazilimi\Yilbasi_yazilimi\bin\Debug\Yilbasi_yazilimi.exe.config
+C:\Users\Ahmet Can\source\repos\Yilbasi_yazilimi\Yilbasi_yazilimi\bin\Debug\Yilbasi_yazilimi.exe
+C:\Users\Ahmet Can\source\repos\Yilbasi_yazilimi\Yilbasi_yazilimi\bin\Debug\Yilbasi_yazilimi.pdb
+C:\Users\Ahmet Can\source\repos\Yilbasi_yazilimi\Yilbasi_yazilimi\obj\Debug\Yilbasi_yazilimi.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet Can\source\repos\Yilbasi_yazilimi\Yilbasi_yazilimi\obj\Debug\Yilbasi_yazilimi.Form1.resources
+C:\Users\Ahmet Can\source\repos\Yilbasi_yazilimi\Yilbasi_yazilimi\obj\Debug\Yilbasi_yazilimi.Properties.Resources.resources
+C:\Users\Ahmet Can\source\repos\Yilbasi_yazilimi\Yilbasi_yazilimi\obj\Debug\Yilbasi_yazilimi.csproj.GenerateResource.Cache
+C:\Users\Ahmet Can\source\repos\Yilbasi_yazilimi\Yilbasi_yazilimi\obj\Debug\Yilbasi_yazilimi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Can\source\repos\Yilbasi_yazilimi\Yilbasi_yazilimi\obj\Debug\Yilbasi_yazilimi.exe
+C:\Users\Ahmet Can\source\repos\Yilbasi_yazilimi\Yilbasi_yazilimi\obj\Debug\Yilbasi_yazilimi.pdb
